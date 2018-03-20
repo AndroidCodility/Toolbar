@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+    <string name="action_settings">Settings</string>
+    <string name="applicant_name">Android Codility</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+    <string name="toolbar">My Toolbar Title</string>
+    <string name="search">Search</string>
+    <string name="info">Toolbar is just a ViewGroup and can be styled and positioned like any other view. Note that this means if you are in a RelativeLayout, you need to ensure that all other views are positioned below the toolbar explicitly. The toolbar is not given any special treatment as a view.
+    \n\nThere are two ways to use Toolbar:
+
+\n\n1.Use a Toolbar as an Action Bar when you want to use the existing ActionBar facilities (such as menu inflation and selection, ActionBarDrawerToggle, and so on) but want to have more control over its appearance.
+\n\n2.Use a standalone Toolbar when you want to use the pattern in your app for situations that an Action Bar would not support; for example, showing multiple toolbars on the screen, spanning only part of the width, and so on.</string>
+</resources>
